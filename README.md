@@ -1,0 +1,1 @@
+This a repository containing the code I used to build my RAG LLM for my dissertation. I used RAG on over 60 documents to create a chatbot that taught black hole physics. This was done with Generative AI assistance to ensure that I understood the core concepts.
